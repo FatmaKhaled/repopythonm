@@ -1,0 +1,29 @@
+i created my github account
+then i install git and add permission using this commands:
+sudo dnf install git-all
+git config --global user.name "alaa-abouzied"
+git config --global user.email "alaa.m.abouzied@gmail.com"
+git config --global init.defaultBranch main
+
+then created ssh
+ssh-keygen -t rsa -b 4096 -C "alaa.m.abouzied@gmail.com"
+then i added it
+-------------------------------------------------------
+to clone create directory
+1) create directory
+   $mkdir alaa
+2)make it the current directory
+   $cd alaa
+3)git clone
+    $git clone git@github.com:FatmaKhaled/repopythonm.git
+4)then create file
+    $touch alaa
+5)add all changes to the sataging area
+    $git add .
+6)commit all changes to the local server
+    $git commit -m "this file to explain the steps to push remotly"
+7)to install any updates
+     $git pull origin main
+8)push all commits to remote server
+    $git push origin main
+---------------------------------------------------------
