@@ -1,0 +1,6 @@
+sudo dnf install git-all
+git --version
+git config -- global user.name "abdullahismaiel"
+git config -- global user.email "abdullahismaiel96@gmail.com
+
+
