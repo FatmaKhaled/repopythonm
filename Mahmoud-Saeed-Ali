@@ -1,0 +1,17 @@
+After Accepting the invitaion to be a collaborator in the repo
+
+git colne git@github.com:FatmaKhaled/repopythonm.git
+
+    to clone the repo locally on my machine
+
+touch Mahmoud-Saeed-Ali
+    created a new file
+
+git add .
+    add all the changes to the staging area
+
+git commit -m "created a new file and finished the steps to push remotely"
+    to commit all the changes to the local server
+
+git push origin main
+    to push all the commits to the remote server
