@@ -1,0 +1,10 @@
+mkdir python
+cd python
+git clone git@github.com:FatmaKhaled/repopythonm.git
+cd repopythonm
+touch AlshimaaMohamedAlsaied
+
+git add .
+git commit -m "clone repo"
+git pull origin main
+git push origin main
