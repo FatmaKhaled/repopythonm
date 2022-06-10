@@ -1,0 +1,13 @@
+sudo apt install git-all
+git config --global user.name "mohamed3teya"
+git config --global user.email "mohamedateya1991@gmail.com"
+
+ssh-keygen
+add to github
+
+mkdir testpython
+cd testpython
+git clone urlfromgithub
+cd repopythonm
+
+
