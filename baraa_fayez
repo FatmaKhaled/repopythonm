@@ -1,6 +1,5 @@
 git clone git@github.com:FatmaKhaled/repopythonm.git
 git add .
 git commit -m"Baraa Fayez File"
-git push origin main
 git pull origin main
 git push origin main
