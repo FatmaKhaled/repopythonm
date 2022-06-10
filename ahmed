@@ -1,0 +1,9 @@
+sudo apt install git-all
+git config --global user.name " Ahmed-Ragab1"
+git config --global user.email "ahmed.ragab11498@gmail.com"
+git config --global core.editor vi
+mkdir ahmed ragab
+touch ahmed
+git init
+git add ahmed
+git commit -m "this is the first file include command i write"
