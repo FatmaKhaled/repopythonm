@@ -1,1 +1,2 @@
 hello from fatama file
+git config pull.rebase false
