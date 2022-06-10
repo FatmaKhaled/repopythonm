@@ -1,0 +1,12 @@
+mkdir test
+git init
+touch ahmed badawi
+git add .
+git commit -m "mmm"
+create redo on github
+ssh url
+git remote add origin git@hithub.com:fatmakhaled/
+
+git remote -v 
+
+git push origin main
