@@ -1,0 +1,12 @@
+		
+	mkdir task1
+	cd task1
+	git clone https://github.com/FatmaKhaled/repopythonm.git
+	cd repopythonm
+	git remote -v
+	touch file
+	git add.
+	git commit -m "message"
+	git commit -a
+	git pull origin main
+	git push origin main
