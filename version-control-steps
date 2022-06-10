@@ -1,0 +1,29 @@
+creat Account Github
+
+sudo yum install git-all
+git config -- global user.name "Khalid Shaheen"
+git config -- global user.email "khalid.shaheen254@gmail.com"
+git config -- global init.defaultBranch main 
+git config -- pull.rebase false 
+
+ssh-keygen -t rsa -b 4096 -C "khalid.shaheen254@gmail.com"
+
+github ===> setting ===> ssh key 
+
+=================================================================================
+
+mkdir Proj-Name cd Proj-Name 
+git init 
+touch Pro-Files 
+git add . 
+get commit -m "Comment"
+
+creat repo on github 
+
+ssh url 
+
+get remote add origin 
+
+git remote -v 
+
+git push origin main
